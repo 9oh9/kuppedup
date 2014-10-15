@@ -1,0 +1,14 @@
+{
+  "name": "kupped_up",
+  "version": "0.0.1",
+  "description": "web app for kuppedup.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nineohnine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.9.7"
+  }
+}
